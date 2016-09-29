@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="nombre">Kachyz</string>
+    <string name="correo">hola@gmail.com</string>
+    <string name="telefono">123456</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+</resources>
