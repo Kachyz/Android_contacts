@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra(getResources().getString(R.string.ptelefono),contactos.get(position).getTelefono());
                 intent.putExtra(getResources().getString(R.string.pemail),contactos.get(position).getEmail());
                 startActivity(intent);
+                finish(); //finaliza actividad anterior
             }
         });
     }
